@@ -1,6 +1,5 @@
 """
 PyInstaller Extractor v2.0 (支持 pyinstaller 6.12.0 及更低版本)
-作者：Extreme Coders
 汉化版本
 """
 
